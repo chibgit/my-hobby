@@ -1,0 +1,31 @@
+/** Stylesheet for my Hubby site **/
+   
+    header {
+      background-color: rgb(5,89,26);
+
+    }
+    aside {
+    /* background-color: green; */
+    height: 650px;
+    }
+    main {
+      /* background-color: orange; */
+      height: 650px;
+    }
+    footer{
+      background-color: green; 
+      height:50px;
+      color: #ffffff;
+      font-weight: bold;
+    }
+  
+    h1{
+        color:white;
+        
+    }
+
+    h2{
+        color:#ffffff;
+        font-size:50px;
+        
+    }
